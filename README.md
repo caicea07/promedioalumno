@@ -1,1 +1,4 @@
 # promedioalumno
+
+
+PROGRAMA EN C++ PARA CALCULAR EL PROMEDIO DE 1 ALUMNO
